@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Dia 1:
+- Inicialização do aplicativo
+- Intergração com firebase
+
+
 
 ## Available Scripts
 
